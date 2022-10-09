@@ -502,7 +502,7 @@
   {"kind":"Prompt","text":"Hey Reddit! I'm ______. Ask me anything."},
   {"kind":"Prompt","text":"Introducing X-treme Baseball! It's like baseball, but with ______!"},
   {"kind":"Prompt","text":"What is Batman's guilty pleasure?"},
-  {"kind":"Prompt","text":"TSA guidelines now prohibit on airplanes."},
+  {"kind":"Prompt","text":"TSA guidelines now prohibit on ______ airplanes."},
   {"kind":"Prompt","text":"Next from J.K. Rowling: Harry Potter and the Chamber of ______."},
   {"kind":"Prompt","text":"That's right, I killed ______. How, you ask? ______.","special":"PICK 2"},
   {"kind":"Prompt","text":"I'm sorry, Professor, but I couldn't complete my homework because of ______."},
