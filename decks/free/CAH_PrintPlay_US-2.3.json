@@ -522,7 +522,7 @@
   {"kind":"Prompt","text":"When Pharaoh remained unmoved, Moses called down a Plague of ______."},
   {"kind":"Prompt","text":"Just once, I'd like to hear you say \"Thanks, Mom. Thanks for ______.\""},
   {"kind":"Prompt","text":"Daddy, why is mommy crying?"},
-  {"kind":"Prompt","text":"When I was tripping on acid, turned into ______."},
+  {"kind":"Prompt","text":"When I was tripping on acid, ______ turned into ______.","special":"PICK 2"},
   {"kind":"Prompt","text":"50% of all marriages end in ______."},
   {"kind":"Prompt","text":"My fellow Americans: Before this decade is out, we will have ______ on the moon!"},
   {"kind":"Prompt","text":"This season at Steppenwolf, Samuel Beckett's classic existential play: Waiting for ______."},
