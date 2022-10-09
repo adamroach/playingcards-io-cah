@@ -1,0 +1,19 @@
+{
+  "name": "playingcards-io-cah",
+  "version": "1.0.0",
+  "description": "Script to build a playingcards.io board for Cards Against Humanity and similar games",
+  "main": "build-room.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamroach/playingcards-io-cah.git"
+  },
+  "author": "Adam Roach",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adamroach/playingcards-io-cah/issues"
+  },
+  "homepage": "https://github.com/adamroach/playingcards-io-cah#readme"
+}
